@@ -3,7 +3,7 @@
 
 This is the ultimate, undisputed terminal setup for mac…use responsibly.
 
-## 1 iTerm
+## iTerm
 
 Download [iTerm](https://www.iterm2.com/)
 
