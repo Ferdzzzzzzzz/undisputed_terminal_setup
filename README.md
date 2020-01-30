@@ -128,6 +128,10 @@ Some useful shortcuts that should be working already (thanks to oh-my-zsh and pl
 
 ...and many more, go read through plugin docs mentioned earlier.
 
+Some more Zsh configuration flags:
+
+    HYPHEN_INSENSITIVE="true"
+
 ## Bonus: Optional Hotkey Window
 
 To add a hotkey (quick popup shortcut key), go to settings (CMD ,):
