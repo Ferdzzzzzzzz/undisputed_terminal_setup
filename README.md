@@ -10,6 +10,16 @@ Download [iTerm](https://www.iterm2.com/)
 OR
 
     brew cask install iterm2
+    
+  ## Keyboard Layout
+  
+  First one is simple, just some navigation shortcuts so that you can work faster.
+  
+    1. Go to `Preferences->Profiles->Keys` (NOT `Preferences->Keys`)
+    2. Press `Presets`
+    3. Select `Natural Text Editing`
+    
+Then, you can move a word backwards using Option ⌥ + ← and a word forwards using Option ⌥ + →, move to the start of the       line using fn + ← and to the end of the line with fn + →. Also you can delete a word backwards using Option ⌥ + ⌫, delete the whole line using Command ⌘ + ⌫.
   
   ## Zsh
   
