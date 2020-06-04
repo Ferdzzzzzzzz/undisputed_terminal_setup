@@ -170,7 +170,14 @@ Tells you some cool shit about your system and looks pretty :)
 ![My Terminal](/terminal.png)
 
 
+## Error Solving
 
+* Folder permission "Insecure completion-dependent directories detected"
+
+```
+chmod 755 /usr/local/share/zsh
+chmod 755 /usr/local/share/zsh/site-functions
+```
 
 
 
