@@ -55,7 +55,7 @@ By now your terminal should be feeling better but still looking a bit kak. So we
 That just clones the theme into your ohmyzsh directory. Then add the following to your .zshrc file:
 
     ZSH_THEME="powerlevel9k/powerlevel9k"
-    source /usr/local/opt/powerlevel9k/powerlevel9k.zsh-theme
+    source $ZSH/oh-my-zsh.sh
 
 ## NerdFont
 
