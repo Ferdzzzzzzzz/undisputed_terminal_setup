@@ -101,7 +101,7 @@ This is to make your terminal a bit more readable (shows branch management etc.)
     POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(vcs)
     POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir)
 
-If you're a Node developer, firstly, consider switching to Dart/Golang, if you're not going to do that, then add this config to your terminal for nvmrc (Node version manager) to work automatically:
+If you're a Node developer, firstly, consider switching to Dart/Golang, if you're not going to do that, install [nvm](https://github.com/nvm-sh/nvm) then add this config to your terminal for nvmrc (Node version manager) to work automatically:
 
     HYPHEN_INSENSITIVE="true"
     export NVM_DIR="$HOME/.nvm"
