@@ -9,7 +9,7 @@ Download [iTerm](https://www.iterm2.com/)
 
 OR
 
-    brew cask install iterm2
+    brew install --cask iterm2
     
   ## Keyboard Layout
   
