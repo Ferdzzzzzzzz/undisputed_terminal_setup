@@ -169,6 +169,14 @@ Tells you some cool shit about your system and looks pretty :)
 
 ![My Terminal](/terminal.png)
 
+# Some cool Git stuff
+
+```
+alias digt = git log --since 6.months.ago --numstat | awk '/^[0-9]+/{print $NF}' | sort | uniq -c | sort -nr | head
+alias rawtojpeg="for i in *.RAW; do sips -s format jpeg $i --out "${i%.*}.jpg"; done"
+alias gl="git log --pretty=oneline"
+alias gg="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
 
 ## Error Solving
 
