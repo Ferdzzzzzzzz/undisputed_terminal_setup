@@ -48,6 +48,10 @@ Feel free to check out [more plugins](https://github.com/robbyrussell/oh-my-zsh/
 
 ## Powerlevel9k
 
+```
+UPDATE: Use [Powerlevel10k](https://gist.github.com/kevin-smets/8568070) instead :)
+```
+
 By now your terminal should be feeling better but still looking a bit kak. So we’re going to add the  **PowerLevel9k** theme to your terminal to make it look pretty. Run the following command in your terminal:
 
     git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
@@ -58,6 +62,10 @@ That just clones the theme into your ohmyzsh directory. Then add the following t
     source $ZSH/oh-my-zsh.sh
 
 ## NerdFont
+
+```
+UPDATE: Powerlevel10k configuration should manage font for you: p10k configure
+```
 
 Now we just want to add a font to make your terminal more readable, we’re going to add [NerdFonts](https://github.com/ryanoasis/nerd-fonts): 
 
@@ -76,6 +84,10 @@ Then, open iTerm and do this:
     4. Select Hack Nerd Font
 
 ## Material Color Theme
+
+```
+UPDATE: Powerlevel10k configuration should manage color theme for you...maybe?
+```
 
 Almost there, your terminal is feeling awesome now...but the colors are probably sore on your eyes hey? Let’s take care of that…
 
